@@ -1,0 +1,96 @@
+[00:00] In the next hour, you will pick up your phone for no reason at all.
+[00:03] You won't decide to. Your hand will just do it. You'll unlock the screen, glance at it, find nothing new, and put it back down, and less than a minute later, you'll pick it up again.
+[00:14] Sound familiar? Maybe you blame yourself. Weak willpower. A short attention span.
+[00:19] That's the story you usually hear, and it feels true, because the habit really does feel like a small personal failure you repeat all day long.
+[00:28] But the real answer is far stranger.
+[00:31] That urge doesn't come from your phone. It's far older than your phone. It's older than writing, older than farming, older than the human species itself.
+[00:41] The machinery that makes you reach for that glowing rectangle was built over millions of years, in bodies that never saw a screen, to solve problems that had nothing to do with messages or likes.
+[00:52] So what was it really built for? To answer that, you have to start with a pigeon.
+[00:57] In the 1950s, the psychologist B. F. Skinner put pigeons in boxes and taught them to peck a small key for food.
+[01:04] Simple. Peck, get a pellet. But Skinner wanted to know what happened when he changed the rules.
+[01:10] Sometimes the pellet came after every peck. Sometimes after every tenth. And sometimes the pellet came at random, after three pecks, then after twenty,
+[01:21] then after one. Which pigeons do you think pecked the hardest? Not the ones that were always rewarded. The ones that never knew.
+[01:27] Skinner called this a variable ratio schedule, which is just a technical way of saying a reward you can't predict.
+[01:34] Pigeons on that schedule pecked fast, pecked constantly, and kept pecking long after the food had stopped coming entirely.
+[01:41] The uncertainty itself kept them hooked.
+[01:44] Now look at your phone. Most of the time you check it, there's nothing. Sometimes there's something dull.
+[01:50] And every so often, there's something wonderful, a message from someone you like, good news, a photo that makes you laugh.
+[01:57] You never know which one you'll get. Does that sound like any box you know?
+[02:01] But a pigeon isn't you. And Skinner could only watch behavior from the outside. To understand what's happening inside your head, you need to look at a single chemical.
+[02:10] You've probably heard that dopamine is the brain's pleasure chemical. It isn't.
+[02:15] Not exactly. In the 1990s, the neuroscientist Wolfram Schultz recorded the activity of dopamine neurons in monkeys as they received drops of juice.
+[02:24] At first, the neurons fired when the juice arrived. Then the monkeys learned that a light always came just before the juice.
+[02:31] And something odd happened. The neurons stopped firing for the juice, and started firing for the light.
+[02:37] What were they actually responding to? Not the reward. The prediction of a reward.
+[02:43] Dopamine, Schultz found, works like a forecasting system. It fires when something turns out better than expected, stays quiet when things go as planned, and dips when a promised reward fails to show up.
+[02:55] Scientists call this a reward prediction error, which simply means the gap between what you expected and what you got.
+[03:01] Then, in 2003, Schultz and his colleagues Christopher Fiorillo and Philippe Tobler tried a twist.
+[03:08] They showed monkeys signals that predicted juice with different odds. Sometimes the juice was certain.
+[03:13] Sometimes it never came. And sometimes it was a coin flip. The slow, sustained dopamine activity was strongest not when the reward was guaranteed, but when it was most uncertain,
+[03:24] right at fifty-fifty. Your brain doesn't just respond to rewards. It lights up for maybe.
+[03:31] There's one more piece. The psychologist Kent Berridge spent decades showing that the brain separates wanting something from liking it.
+[03:39] Liking is the pleasure you feel when you actually get the thing. Wanting is the pull that drives you toward it.
+[03:45] Dopamine, Berridge argued, mostly drives the wanting. Which explains something you've felt a thousand times.
+[03:52] Why does checking your phone feel so urgent, while finding what's there feels so flat?
+[03:58] Because the urge was never about enjoying what you'd find. It was about the looking.
+[04:03] So now you have a brain that craves uncertain rewards, and a system built more for wanting than for liking.
+[04:09] But why would evolution build you this way? Why would a brain shaped for survival be so easily captured by a small piece of glass?
+[04:18] This is where your ancestors come in. For almost all of human history, you would have been a forager.
+[04:23] You would have walked through grasslands and forests searching for food. Berries on one bush.
+[04:29] Roots in one patch of soil. A beehive high in a tree. Food was scattered and unpredictable.
+[04:35] Some bushes were full. Most were empty. And the only way to survive was to keep checking.
+[04:42] In 1976, the ecologist Eric Charnov described a rule for how animals handle this, called the marginal value theorem.
+[04:49] The idea is simple. Imagine you're picking berries from a bush. At first, they're everywhere.
+[04:55] Then they get harder to find. At some point, the bush becomes so sparse that you'd do better walking to the next one.
+[05:01] The theorem says a smart forager leaves a patch when what it's getting there drops below what it could expect elsewhere.
+[05:08] And animals, from birds to bees, turn out to follow this rule remarkably well.
+[05:13] So did your ancestors. Their brains were tuned to sense when a patch was running dry, and when it was time to move on.
+[05:20] In the 1990s, two researchers at Xerox PARC in California, Peter Pirolli and Stuart Card, noticed something remarkable.
+[05:28] People searching for information behaved almost exactly like animals searching for food. They followed cues, which Pirolli and Card called information scent, the way an animal follows the smell of ripe fruit.
+[05:40] They hopped between sources. They stayed when the information was rich, and left when it thinned out. They named the idea information foraging theory.
+[05:49] Your ancestors foraged for berries. You forage for information. And it's the same machine doing the work.
+[05:56] Can you see where this is going? But food was only half of what your ancestors were searching for.
+[06:01] The other half was each other. Humans are social primates, and for social primates, information about the group is survival information.
+[06:10] Who's allied with whom. Who is angry. Who has food to share. Who might turn against you.
+[06:17] The anthropologist Robin Dunbar spent years studying how primates hold their groups together. Monkeys and apes do it by grooming, picking carefully through each other's fur, sometimes for hours every day.
+[06:29] It's slow, and it only works one on one. So how do you hold together a group of more than a hundred humans?
+[06:35] Dunbar's answer was language. He argued that talk, and especially gossip, became a kind of grooming you could do with several people at once, a way to keep track of the social world without touching anyone.
+[06:48] And when Dunbar and his colleagues actually listened in on everyday conversations, they found that about two thirds of the time, people were talking about social topics.
+[06:57] Relationships. Other people. Who said what to whom. Your brain treats social news like food, because for most of your history, it mattered just as much.
+[07:08] And being cut off from that news was dangerous. In 2003, the researchers Naomi Eisenberger, Matthew Lieberman, and Kipling Williams put people in a brain scanner and had them play a simple computer game of catch with two other players.
+[07:22] Then, without warning, the other players stopped throwing them the ball. That was all.
+[07:27] A cartoon ball, a game with strangers, and suddenly no one passed it to them. Yet the brain regions that became active overlapped with regions involved in the distress of physical pain.
+[07:38] Why would being ignored in a meaningless game hurt?
+[07:41] Because for your ancestors, being pushed out of the group could mean death. Alone, you couldn't hunt large animals.
+[07:48] You couldn't defend yourself. You couldn't raise children. Your brain learned to treat exclusion as an emergency, and connection as something to check on, constantly.
+[07:59] Now put all of these pieces together. You have a brain that fires hardest for uncertain rewards.
+[08:04] A wanting system that pulls you forward even when the payoff is small. A foraging instinct that keeps scanning for the next patch.
+[08:12] And a deep, ancient hunger for social information, with a fear of being left out that once kept you alive.
+[08:19] Then someone hands you a single device that triggers every one of these at once. Every check is a coin flip.
+[08:26] Every app is a berry bush. Every notification might be news about your tribe. What chance did you really have?
+[08:33] But here's the part almost nobody talks about. Remember the berry bush? Remember the rule that told your ancestors when to leave?
+[08:41] A bush eventually runs out. That's the signal. The berries get scarce, your brain notices the returns dropping, and you move on.
+[08:49] The stopping point was built into the world itself.
+[08:53] Your phone has no stopping point. The feed refills every time you pull it down.
+[08:58] There is always another post, another message, another video lined up behind the last one.
+[09:04] The patch never runs dry. So the ancient signal that once told you this is enough, time to go, never arrives.
+[09:12] You aren't failing to stop. You're waiting for a signal that was supposed to come from the environment, and this environment never sends it.
+[09:20] That's the real twist. The problem isn't that your brain is broken. It's that your brain is working exactly as designed, in a world it was never designed for.
+[09:30] And the pull doesn't switch off when you put the phone away. In 2017, the researcher Adrian Ward and his colleagues at the University of Texas gave hundreds of people tests of memory and problem solving.
+[09:41] Some left their phones in another room. Some kept them in a pocket or a bag. Some placed them face down on the desk.
+[09:48] The phones were silenced. Nobody checked them. And yet, the closer the phone was, the worse people tended to do.
+[09:55] The people whose phones were in another room did best. Just having it nearby seemed to drain mental capacity, as if part of the mind was quietly keeping watch over it.
+[10:06] Isn't that exactly what a forager would do, keeping one eye on the most promising patch?
+[10:11] You may even feel it when there's nothing there at all. In one study, the psychologist Michelle Drouin found that nearly nine out of ten college students reported phantom vibrations,
+[10:21] a buzz in the pocket from a phone that never rang. Your brain is so tuned to the possibility of news that it starts inventing it.
+[10:30] So what do you do with this? You could see it as bad news. Your oldest instincts are being turned against you.
+[10:36] But there's another way to see it. Once you understand the machine, it stops feeling like a personal failure.
+[10:42] That restless reach for your pocket isn't laziness. It isn't weakness. It's the same impulse that kept your ancestors scanning the grass for food and listening for the voices of their group.
+[10:53] It's the reason they survived long enough for you to exist.
+[10:57] And understanding the machine gives you a few levers. If uncertainty is the hook, you can remove some of it, turning off the notifications that make every buzz a coin flip.
+[11:07] If the patch never empties, you can build your own edge, a time or a place where the foraging stops.
+[11:13] If the phone drains you just by being close, you can do the simplest thing Adrian Ward's research points to, and leave it in another room.
+[11:21] None of this is about willpower. It's about giving your ancient brain the stopping signals the modern world forgot to include.
+[11:28] Because the next time you feel that pull, you'll know what it is. It isn't your phone calling you.
+[11:34] It's a forager who walked across open plains, who checked every bush, who listened for every rumor in the group, and who never once knew which check would be the one that mattered.
+[11:44] In the next hour, you will pick up your phone. But this time, for the first time, you'll know the reason.

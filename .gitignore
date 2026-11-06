@@ -25,3 +25,6 @@ node_modules/
 
 # Local Whisper build + models
 tools/transcribe/whisper.cpp/
+
+# Raw Whisper output (words.json is the aligned version)
+videos/*/whisper_words.json
