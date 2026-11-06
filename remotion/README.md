@@ -1,6 +1,6 @@
 # Remotion project
 
-Assembles a video from its folder in `videos/NNN-slug/`: the narration, one image per transcript line, and the `OVERLAY:` cues from Stage 3. Everything is drawn in the channel's v2 style (palette, boil on twos, squash-and-stretch pop-ins, 3-frame colour wipes).
+Assembles a video from its folder in `videos/NNN-slug/`: the narration, one image per transcript line, and the cues in `overlays.txt` (Stage 3). Everything is drawn in the channel's v2 style (palette, boil on twos, squash-and-stretch pop-ins, 3-frame colour wipes).
 
 ## Per video
 

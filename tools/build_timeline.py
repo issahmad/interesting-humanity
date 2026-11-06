@@ -6,7 +6,9 @@ Reads from the video folder:
   transcript.txt     [MM:SS] lines; one line = one scene (required)
   words.json         word timings from tools/transcribe (required)
   audio/narration.*  the joined narration (for the total length)
-  image_prompts.txt  Stage 3 prompts with OVERLAY lines (optional)
+  overlays.txt       Stage 3 overlay cues, one "[MM:SS] OVERLAY: ..." line per scene (optional)
+  image_prompts.txt  Stage 3 prompts (optional; OVERLAY lines under a prompt still work
+                     if overlays.txt is absent)
   images/sNNN.*      one image per scene, numbered from s001 (optional)
 
 Writes timeline.json. Scenes without an image render as a placeholder, so this
@@ -93,7 +95,27 @@ def parse_overlay(line: str, where: str) -> tuple[list[dict], str]:
     return overlays, enter
 
 
+def read_overlays_file(video: Path) -> list[tuple[str, list[dict], str]] | None:
+    path = video / "overlays.txt"
+    if not path.exists():
+        return None
+    entries = []
+    for n, raw in enumerate(path.read_text().splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        m = re.match(r"\[(\d\d:\d\d)\]\s*(OVERLAY:.*)$", line)
+        if not m:
+            fail(f"overlays.txt line {n} must look like '[MM:SS] OVERLAY: ...': {line[:60]}")
+        overlays, enter = parse_overlay(m.group(2), f"overlays [{m.group(1)}]")
+        entries.append((m.group(1), overlays, enter))
+    return entries
+
+
 def read_prompts(video: Path) -> list[tuple[str, list[dict], str]]:
+    from_overlays = read_overlays_file(video)
+    if from_overlays is not None:
+        return from_overlays
     path = video / "image_prompts.txt"
     if not path.exists() or not path.read_text().strip():
         return []

@@ -25,7 +25,8 @@ Hand-drawn doodle explainer videos about human history, evolution, anthropology 
 | --- | --- | --- |
 | `script.txt` | Stage 2 — narration script | yes |
 | `transcript.txt` | Timestamped transcript (`[00:00] line`) | yes |
-| `image_prompts.txt` | Stage 3 — one prompt per timestamp | yes |
+| `image_prompts.txt` | Stage 3 — one prompt per timestamp (prompt text only) | yes |
+| `overlays.txt` | Stage 3 — Remotion overlay cues, `[MM:SS] OVERLAY: ...` per scene | yes |
 | `metadata.md` | Stage 4 — title, description, tags | yes |
 | `notes.md` | Decisions, rerolls, what worked | yes |
 | `thumbnail/` | Final thumbnail(s) | yes |
