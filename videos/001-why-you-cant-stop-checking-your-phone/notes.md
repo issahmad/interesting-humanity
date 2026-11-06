@@ -23,3 +23,10 @@ Paste these word for word into every prompt the thing appears in (Instructions.t
 - **Phone:** a chunky rounded sky-colored phone with a blank cream screen and one small hard-edged cream highlight blob
 - **Coin:** a flat round mustard coin marked with a single small ink star
 - **Forager outfit:** wearing a simple sand animal-skin wrap with a zigzag hem over the violet torso, carrying a round woven sand basket on one arm
+- **Couch:** a chunky rounded teal couch with two plump armrests
+- **Side table:** a small rounded mustard side table
+- **Wall clock:** a round tomato wall clock with two navy hands and no numbers
+- **Experiment box:** a chunky rounded teal experiment box with a square front window, a small round mustard key on its back wall and a small sand food tray at the bottom
+- **Lever machine:** a chunky rounded tomato lever machine with three blank round sky windows on its front and a long lever with a mustard knob
+- **Scientist:** a scientist: a cartoon character with a tall rounded-square sky-colored (or blush) head (not a circle) tilted slightly to one side, no cowlick, two tall white oval eyes with small navy pupils, thick tapered eyebrows floating above the eyes, a small line mouth, a long cream lab coat over a short bean-shaped violet torso, curvy noodle arms and legs, mitten hands with no fingers, plain cream shoes
+- **Early human:** an early human: a cartoon character with a tall rounded-square blush head (not a circle) tilted slightly to one side, no cowlick, two tall white oval eyes with small navy pupils, thick tapered eyebrows floating above the eyes, a small line mouth, a short bean-shaped torso covered by a simple sand animal-skin wrap with a zigzag hem, curvy noodle arms and legs, mitten hands with no fingers, plain cream shoes
