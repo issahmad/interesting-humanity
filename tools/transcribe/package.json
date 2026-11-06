@@ -1,0 +1,11 @@
+{
+  "name": "transcribe",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "transcribe": "node transcribe.mjs"
+  },
+  "dependencies": {
+    "@remotion/install-whisper-cpp": "4.0.541"
+  }
+}

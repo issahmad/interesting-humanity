@@ -22,3 +22,6 @@ node_modules/
 .env
 .env.*
 !.env.example
+
+# Local Whisper build + models
+tools/transcribe/whisper.cpp/
