@@ -246,7 +246,7 @@ Only after the FINAL batch has been delivered — when every timestamp now has a
 >
 > **Do you want me to combine all the prompts into one single downloadable text file?** Reply **"yes"** and I'll generate an `image_prompts_[topic].txt` file containing every prompt in order.
 
-Then stop and wait. If the user replies "yes", create a single downloadable plain-text file named `image_prompts_[topic].txt` (using the same lowercase, underscore slug as the script) containing every prompt, each starting with its `[MM:SS]` timestamp, separated by exactly ONE blank line, in order. Overlays stay in `overlays.txt`. Present the file for download. Do NOT create this file before the user asks for it.
+Then stop and wait. If the user replies "yes", create a single downloadable plain-text file named `image_prompts_[topic].txt` (using the same lowercase, underscore slug as the script) containing every prompt, each starting with its image index and a dash (e.g. `s001 - Hand-drawn ...`), separated by exactly ONE blank line, in order. Overlays stay in `overlays.txt`. Present the file for download. Do NOT create this file before the user asks for it.
 >
 > Paste only the prompt lines (never the `OVERLAY:` lines) into **Nano Banana / Gemini**, **Midjourney**, or another image model to generate each image. Keep `overlays.txt` in the video folder: Remotion reads it to draw headlines, labels, arrows and bubbles.
 >
