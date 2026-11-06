@@ -13,7 +13,10 @@ Hand-drawn doodle explainer videos about human history, evolution, anthropology 
 ├── videos/
 │   ├── _template/          # Copy this to start a new video
 │   └── 001-<slug>/         # One folder per video, numbered in release order
-└── remotion/               # (planned) Remotion project that assembles each video
+├── tools/
+│   ├── transcribe/         # Local Whisper: narration → words.json + transcript.txt
+│   └── build_timeline.py   # transcript + words + prompts + images → timeline.json
+└── remotion/               # Remotion project that assembles each video (see remotion/README.md)
 ```
 
 ## Per-video folder

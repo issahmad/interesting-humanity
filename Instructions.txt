@@ -186,8 +186,11 @@ All image prompts must follow the VISUAL STYLE DNA (v2) in the Channel Knowledge
    - `label "text" at=<zone>` — lowercase handwritten ink navy label.
    - `arrow to=<zone> label="text"` — looping tomato doodle arrow pointing at the object in that zone, label at its tail (label optional).
    - `bubble at=<zone> content="?"` — squircle thought bubble with 3 trailing dots; content is one symbol or word: ?, !, hmm, wait..., or lightbulb.
+   - `cut` — no colour wipe into this scene; use it when the scene holds or continues the previous image (same moment, new expression or one new element). Without it, every scene enters with a 3-frame colour wipe.
+   - Any cue may add `cue="phrase"`: a few exact words from that timestamp's line; the overlay pops in when they are spoken. Without it, it pops in just after the cut. Use it for headlines and arrows that land on a key word.
    - Zones are a 3×3 grid: top-left, top-center, top-right, center-left, center, center-right, bottom-left, bottom-center, bottom-right.
-   - Example: `OVERLAY: headline "MILLIONS OF YEARS" swipe=mustard | arrow to=center-right label="your ancestors"`
+   - Example: `OVERLAY: headline "MILLIONS OF YEARS" swipe=mustard cue="millions of years" | arrow to=center-right label="your ancestors"`
+   - Example: `OVERLAY: cut | bubble at=top-right content="?"`
 7a. **Leave room for overlays.** Whenever a cue is present, the prompt must keep that area clear: for a headline, say "empty clear background in the top-left third"; for a bubble, place the hero so there is empty space in the bubble's zone; for an arrow, put the target object clearly inside the named zone.
 8. Match tone to background, using flat solid color blocks only:
    - Default / neutral → warm cream #FFF3DC
