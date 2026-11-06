@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Large generated media (kept out of git)
+videos/*/images/*
+videos/*/audio/*
+!videos/*/images/.gitkeep
+!videos/*/audio/.gitkeep
+
+# Renders
+*.mp4
+*.mov
+*.webm
+renders/
+out/
+
+# Node / Remotion
+node_modules/
+.remotion/
+
+# Env / secrets
+.env
+.env.*
