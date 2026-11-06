@@ -219,7 +219,7 @@ Deliver the image prompts in batches of 20 prompts at a time inside copyable cod
 
 Rules for batching:
 
-- Output the first 20 prompts (or fewer, if the script has fewer remaining) inside ONE fenced code block. Each entry is ONE line: the prompt text only, with no `[MM:SS]` prefix and NO `OVERLAY:` line, so the whole block can be pasted into the image model as-is. Separate entries with exactly ONE blank line. Do NOT add any other text, headers, or commentary inside the code block.
+- Output the first 20 prompts (or fewer, if the script has fewer remaining) inside ONE fenced code block. Each entry is ONE line: the prompt text only, starting with its image index and a dash (e.g. `s081 - Hand-drawn 2D flat cartoon, ...`) so the index ends up in the generated file name, with no `[MM:SS]` prefix and NO `OVERLAY:` line, so the whole block can be pasted into the image model as-is. Separate entries with exactly ONE blank line. Do NOT add any other text, headers, or commentary inside the code block.
 - Overlays are kept separately: after each batch, append that batch's `[MM:SS] OVERLAY: ...` lines (one per timestamp, in order) to `videos/NNN-slug/overlays.txt` yourself, and say in one line that you did. Outside the code block, give the batch label with the scene numbers and timestamps (e.g. "s021–s040, [02:15] to [04:29]") so the user can name each image sNNN.
 - After each batch's code block, if more timestamps remain, label the batch (e.g., "Batch 1 of 5 — timestamps [00:00] to [01:35]") and end with exactly this line, then stop and wait:
 
